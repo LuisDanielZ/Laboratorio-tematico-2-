@@ -9,3 +9,5 @@ Zepeda Reyes Luis Daniel 2173070974
 
 Desarrollo de una plicación de clasificación y visualización de Tweets sobre COVID-19(en inglés)
 Descripción :La aplicación deberá  leer y clasificar los Tweets ingresados por los usuarios.
+El material de referencia fue sacado dehttps://www.kaggle.com/datatattle/covid-19-nlp-text-classification. 
+todos los derechos estan reservado para  su respectivo autor.
